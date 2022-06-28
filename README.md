@@ -7,5 +7,7 @@ Atualmente estou estudando React Native e ReactJS e me aperfeiçãndo mais em No
 Tenho comecimento com PHP e Wordpress, faz muito tempo que não ultilizo porém sempre é bom relembrar ^^.
 Sempre procuro ajudar as pessoas, principalmente que está começando nessa área, e desejo poder ajudar mais!
 
+Atualmente estou no desafio, aprender Flutter em 2 meses, iniciei dia 25/06;
+
 
  💻🌕🌜
