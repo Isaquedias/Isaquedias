@@ -1,13 +1,1 @@
-
-Olá 👋, Meu nome é Isaquer.
-Mora em Ananindeua-PA.
-Sou programador, atualmente estou trabalhancom com Angular e Nodejs.
-Gosto muito de aprender mais sobre.
-Atualmente estou estudando React Native e ReactJS e me aperfeiçãndo mais em NodeJs.
-Tenho comecimento com PHP e Wordpress, faz muito tempo que não ultilizo porém sempre é bom relembrar ^^.
-Sempre procuro ajudar as pessoas, principalmente que está começando nessa área, e desejo poder ajudar mais!
-
-Atualmente estou no desafio, aprender Flutter em 2 meses, iniciei dia 25/06;
-
-
- 💻🌕🌜
+Olá! 👋 Meu nome é Isaquer e eu sou um programador de Ananindeua, PA. Eu tenho uma vasta experiência em desenvolvimento web, com habilidades avançadas em Angular e Node.js. Atualmente, estou expandindo meu conhecimento em React Native e ReactJS, mas estou sempre buscando aprimorar minhas habilidades em Angular e Node.js. Eu também tenho conhecimento prévio em PHP e Wordpress, embora eu não tenha trabalhado com eles há algum tempo. Meu objetivo é sempre estar atualizado com as tecnologias mais recentes e ajudar outras pessoas a se aprimorarem em suas habilidades de programação. Estou animado para ver o que o futuro reserva para mim na área de desenvolvimento web!
